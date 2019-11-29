@@ -1,20 +1,13 @@
-# Project Name
-### - UsedCarMarket
-
-# Team Members
-
-### Woongtae Kim [GitHub](https://github.com/angle2v)
-### Hyunmin Park [GitHub](https://github.com/Hyunmin1992)
-
-# Used Programming Language
-### - [Java]
-
+# 프로젝트 : 중고차 시장
+# 팀원
+> 박현민 [GitHub 바로가기](https://github.com/Hyunmin1992)
+# 사용언어
+> Java
 # Pattern
-### - [MVC]
+> MVC
 # Plugin
-### - Maven
+> Maven
 # Framework & Libary
-### - Lombok
-
+> Lombok
 # Content
-### - Weaving logic with used car market mvc pattern
+> 중고차 시장을 주제로 
