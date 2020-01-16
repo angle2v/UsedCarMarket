@@ -10,4 +10,4 @@
 ### Framework & Libary
   > Lombok
 ### Content
-  > 중고차 시장을 주제로 
+  > 중고차 시장을 주제로 하여 MVC패턴 학습 미니프로젝트
