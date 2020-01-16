@@ -1,13 +1,13 @@
 ## 프로젝트 : 중고차 시장
 ### 팀원
->> 박현민 [GitHub 바로가기](https://github.com/Hyunmin1992)
+  > 박현민 [GitHub 바로가기](https://github.com/Hyunmin1992)
 ### 사용언어
->> Java
+  > Java
 ### Pattern
->> MVC
+  > MVC
 ### Plugin
->> Maven
+  > Maven
 ### Framework & Libary
->> Lombok
+  > Lombok
 ### Content
->> 중고차 시장을 주제로 
+  > 중고차 시장을 주제로 
